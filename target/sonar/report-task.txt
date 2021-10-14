@@ -1,0 +1,6 @@
+projectKey=com.tcs.WebApplication4:WebApplication4
+serverUrl=http://localhost:9000
+serverVersion=7.0.0.36138
+dashboardUrl=http://localhost:9000/dashboard/index/com.tcs.WebApplication4:WebApplication4
+ceTaskId=AXx_CXxj5hLCW47dBTri
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AXx_CXxj5hLCW47dBTri
